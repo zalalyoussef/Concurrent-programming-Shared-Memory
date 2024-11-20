@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\bin\Debug\L1 conccurent programming.exe.config
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\bin\Debug\L1 conccurent programming.exe
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\bin\Debug\L1 conccurent programming.pdb
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\obj\Debug\L1 conccurent programming.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\obj\Debug\L1 conccurent programming.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\obj\Debug\L1 conccurent programming.exe
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\obj\Debug\L1 conccurent programming.pdb
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\bin\Debug\f1.txt
+C:\Users\pc\source\repos\L1 conccurent programming\L1 conccurent programming\bin\Debug\output.txt
